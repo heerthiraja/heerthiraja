@@ -25,7 +25,9 @@
 <p align="left">
 <a href="https://twitter.com/heerthiraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heerthiraja" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/heerthiraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heerthiraja" height="30" width="40" /></a>
+<a href="https://kaggle.com/heerthirajah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="heerthirajah" height="30" width="40" /></a>
 <a href="https://instagram.com/heerthi__raja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heerthi__raja" height="30" width="40" /></a>
+<a href="https://hashnode.com/@heerthiraja2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@heerthiraja2004" height="30" width="40" /></a>
 <a href="https://medium.com/@rajaheerthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rajaheerthi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/heerthiraja2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="heerthiraja2004" height="30" width="40" /></a>
 </p>
